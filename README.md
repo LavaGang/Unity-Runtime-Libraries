@@ -1,6 +1,7 @@
 ### GENERAL INFORMATION:
 
 - Unity Runtime Libraries used by [MelonLoader](https://github.com/LavaGang/MelonLoader) for Assembly Generation.
+- If you wish to generate ZIP Archives to add to this Repository you can easily do so using [UDGB](https://github.com/LavaGang/UDGB)
 
 ---
 
